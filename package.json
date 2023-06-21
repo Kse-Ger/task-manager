@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "mongodb": "^3.7.3",
-    "mongodb-legacy": "^5.0.0"
+    "mongodb-legacy": "^5.0.0",
+    "mongoose": "^5.13.17",
+    "validator": "^10.9.0"
   }
 }
